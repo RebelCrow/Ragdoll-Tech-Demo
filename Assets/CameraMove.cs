@@ -8,8 +8,8 @@ public class CameraMove : MonoBehaviour {
     Vector3 cammeraOffSet;
 	// Use this for initialization
 	void Start () {
-        playerObj = GameObject.Find("BlueSuitFree01/Group/Main/DeformationSystem/Root_M/Spine1_M");
-        cammeraOffSet = new Vector3(1, 5, 5);
+        playerObj = GameObject.Find("Ragdoll/Group/Main/DeformationSystem/Root_M/Spine1_M");
+        cammeraOffSet = new Vector3(-1, 5, -5);
 	}
 	
 	// Update is called once per frame
