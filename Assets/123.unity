@@ -710,7 +710,7 @@ Prefab:
     - target: {fileID: 144373256512736650, guid: a69ef7f3ee68da349be7d55962080ac1,
         type: 2}
       propertyPath: m_LowTwistLimit.limit
-      value: 6.128903
+      value: 55.079956
       objectReference: {fileID: 0}
     - target: {fileID: 144972277370409174, guid: a69ef7f3ee68da349be7d55962080ac1,
         type: 2}
@@ -720,12 +720,12 @@ Prefab:
     - target: {fileID: 144373256512736650, guid: a69ef7f3ee68da349be7d55962080ac1,
         type: 2}
       propertyPath: m_HighTwistLimit.limit
-      value: 52.549427
+      value: 70.976364
       objectReference: {fileID: 0}
     - target: {fileID: 144373256512736650, guid: a69ef7f3ee68da349be7d55962080ac1,
         type: 2}
       propertyPath: m_Swing1Limit.limit
-      value: 11.236633
+      value: 3.33912
       objectReference: {fileID: 0}
     - target: {fileID: 136890834818671902, guid: a69ef7f3ee68da349be7d55962080ac1,
         type: 2}
@@ -776,6 +776,96 @@ Prefab:
         type: 2}
       propertyPath: m_LowTwistLimit.limit
       value: -66.38023
+      objectReference: {fileID: 0}
+    - target: {fileID: 144199055922485196, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0.020476764
+      objectReference: {fileID: 0}
+    - target: {fileID: 144199055922485196, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.y
+      value: -0.004459724
+      objectReference: {fileID: 0}
+    - target: {fileID: 144199055922485196, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_Swing1Limit.limit
+      value: 6.626587
+      objectReference: {fileID: 0}
+    - target: {fileID: 144199055922485196, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_HighTwistLimit.limit
+      value: 5.8590584
+      objectReference: {fileID: 0}
+    - target: {fileID: 144376560603494464, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0.44964287
+      objectReference: {fileID: 0}
+    - target: {fileID: 144376560603494464, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.y
+      value: -0.000006455928
+      objectReference: {fileID: 0}
+    - target: {fileID: 144376560603494464, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.z
+      value: -0.000006482005
+      objectReference: {fileID: 0}
+    - target: {fileID: 144376560603494464, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_LowTwistLimit.limit
+      value: -7.10854
+      objectReference: {fileID: 0}
+    - target: {fileID: 144376560603494464, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_HighTwistLimit.limit
+      value: 34.065327
+      objectReference: {fileID: 0}
+    - target: {fileID: 144820678113175346, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.x
+      value: -0.44964284
+      objectReference: {fileID: 0}
+    - target: {fileID: 144820678113175346, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0.0000064560445
+      objectReference: {fileID: 0}
+    - target: {fileID: 144820678113175346, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.z
+      value: 0.000006482005
+      objectReference: {fileID: 0}
+    - target: {fileID: 144820678113175346, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_LowTwistLimit.limit
+      value: -10.754055
+      objectReference: {fileID: 0}
+    - target: {fileID: 144820678113175346, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_HighTwistLimit.limit
+      value: 27.507751
+      objectReference: {fileID: 0}
+    - target: {fileID: 144260333299887302, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0.020476764
+      objectReference: {fileID: 0}
+    - target: {fileID: 144260333299887302, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_ConnectedAnchor.y
+      value: -0.004459724
+      objectReference: {fileID: 0}
+    - target: {fileID: 144260333299887302, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_HighTwistLimit.limit
+      value: -8.992554
+      objectReference: {fileID: 0}
+    - target: {fileID: 144260333299887302, guid: a69ef7f3ee68da349be7d55962080ac1,
+        type: 2}
+      propertyPath: m_Swing1Limit.limit
+      value: 9.419056
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a69ef7f3ee68da349be7d55962080ac1, type: 2}
@@ -1282,6 +1372,23 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!1 &589965919 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1728044851535604, guid: a69ef7f3ee68da349be7d55962080ac1,
+    type: 2}
+  m_PrefabInternal: {fileID: 181187250}
+--- !u!65 &589965921
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 589965919}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.09829327, y: 2.8712153, z: 0.13839547}
+  m_Center: {x: 0.06400847, y: -0.6611244, z: -0.024060212}
 --- !u!1 &601510925
 GameObject:
   m_ObjectHideFlags: 0
@@ -3547,6 +3654,23 @@ CharacterJoint:
   m_EnablePreprocessing: 0
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!1 &1631334277 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1343876328043022, guid: a69ef7f3ee68da349be7d55962080ac1,
+    type: 2}
+  m_PrefabInternal: {fileID: 181187250}
+--- !u!65 &1631334279
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1631334277}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.15591043, y: 3.1266, z: 0.11704316}
+  m_Center: {x: -0.022859737, y: 0.5090108, z: 0.049868476}
 --- !u!1001 &1720865143
 Prefab:
   m_ObjectHideFlags: 0
