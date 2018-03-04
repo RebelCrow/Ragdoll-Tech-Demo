@@ -9,7 +9,7 @@ public class CameraMove : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         playerObj = GameObject.Find("Ragdoll/Group/Main/DeformationSystem/Root_M/Spine1_M");
-        cammeraOffSet = new Vector3(1, 1, 1);
+        cammeraOffSet = new Vector3(-1,1,1);
 	}
 	
 	// Update is called once per frame
