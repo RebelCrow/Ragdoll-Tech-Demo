@@ -8,7 +8,7 @@ public class CameraMove : MonoBehaviour {
     Vector3 cammeraOffSet;
 	// Use this for initialization
 	void Start () {
-        playerObj = GameObject.Find("Ragdoll/Group/Main/DeformationSystem/Root_M/Spine1_M");
+        playerObj = GameObject.Find("stick man rig/Bone002");
         cammeraOffSet = new Vector3(-1,1,1);
 	}
 	
